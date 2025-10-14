@@ -7,7 +7,7 @@ The **`switch`** statement is a *control flow* construct. It tells the compiler 
 
 In contrast, **`match`** in Python is an *expression* that directly returns a value. It doesn’t need a `break` statement because once a case matches, its value is automatically assigned to the variable.
 
-```python
+<code>
 grade = 'B'
 
 result = match grade:
@@ -16,7 +16,7 @@ result = match grade:
     case _: "Needs improvement"  # default case
 
 print(result)
-```
+</code>
 
 ---
 
