@@ -1,4 +1,4 @@
----
+
 ## 🗓️ Day 7 — Documenting What I Learned
 
 ### 🧩 Difference Between `match` and `switch`
