@@ -1,5 +1,5 @@
 ---
-# 📘 Day 8 – Documenting What I Learned
+# 📘 Day 10 – Documenting What I Learned
 
 ## 🧩 Introduction
 
