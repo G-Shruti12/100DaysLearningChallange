@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(141, 139, 136);
+        }
+        .container{
+            background-color: rgb(56, 58, 58);
+            width: 50vh;
+            height:80vh;
+            padding:2%;
+            border-radius: 4%;
+            box-shadow: 1px 4px 3px solid black;
+        }
+        .display{
+            height: 15%;
+            width: 100%;
+            background-color: rgb(177, 174, 172);
+            margin-bottom: 20px;
+            border-radius: 6px;
+            display: flex;
+            justify-content:flex-end;
+            align-items: center;
+            color: white;
+            font-size: 50px;
+        }
+        .numbers{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            /* background-color: aqua; */
+            height: 80%;
+            gap:10px;
+            padding: 0 20px;
+        }
+        button{
+            border-radius: 6px;
+            border:1px transparent;
+            cursor: pointer;   
+            color: white;
+            background-color: rgb(161, 160, 160);
+            font-weight: 900;
+            font-size: 16px;
+        }
+        button:hover{
+            box-shadow: 1px 1px 5px solid white;
+        }
+        .rc{
+            background-color:rgb(226, 54, 83);
+        }
+        .fn{
+            background-color: blue;
+        }
+        .zero{
+            grid-column: 1 / 3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="display">0</div>
+        <div class="numbers">
+          <button class="rc">AC</button>
+           <button class="fn"><-</button>
+            <button class="fn">%</button>
+             <button class="fn">/</button>
+              <button >7</button>
+               <button>8</button>
+                <button>9</button>
+                 <button class="fn">*</button>
+                  <button>4</button>
+                   <button>5</button>
+                     <button>6</button>
+                     <button class="fn">-</button>
+                       <button>1</button>
+                         <button>2</button>
+                           <button>3</button>
+                            <button class="fn">+</button>
+                           <button class="zero">0</button><button>.</button><button class="rc">=</button>
+        </div>
+    </div>
+    <script>
+    const display = document.querySelector('.display');
+    const buttons = document.querySelectorAll('button');
+
+    let currentInput = '';
+    let resetNext = false; 
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            const value = button.textContent;
+
+            if (value === 'AC') {
+                currentInput = '';
+                display.textContent = '0';
+            }
+
+            else if (value === '<-') {
+                currentInput = currentInput.slice(0, -1);
+                display.textContent = currentInput || '0';
+            }
+
+            else if (value === '=') {
+                try {
+                   let result = Function(`'use strict'; return (${currentInput.replace('%', '/100')})`)();
+                    if (result === Infinity || isNaN(result)) throw "Error";
+                    display.textContent = result;
+                    currentInput = result.toString();
+                    resetNext = true;
+                } catch {
+                    display.textContent = 'Error';
+                    currentInput = '';
+                }
+            }
+            else {
+                if (resetNext) {
+                    currentInput = '';
+                    resetNext = false;
+                }
+                currentInput += value;
+                display.textContent = currentInput;
+            }
+        });
+    });
+</script>
+
+</body>
+  </html>
