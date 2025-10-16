@@ -1,5 +1,31 @@
-# Day-11 |Documenting what i learned
-- i learned about queue data stucture which can be called extension of stack while stack was based on last in first out principal for example recursion the function that is called at last is c
-- called first while here we learned about ticket counter analogy
-- here the part from which we add elements are called rear and other is front to remove we can not acess elements in between the queue here.
-- we have predefined methods like push shift etc. in js
+# 📘 Day 11 – Documenting What I Learned
+## 🧩 Introduction
+
+Today, I learned about the Queue data structure — which can be seen as an extension of Stack.
+
+While a Stack works on the LIFO (Last In, First Out) principle — like in recursion, where the last function called is the first one to return —
+a Queue works on the FIFO (First In, First Out) principle.
+
+# 🎟️ Ticket Counter Analogy
+
+A Queue works just like a ticket counter line:
+
+The first person to enter the line is the first to get the ticket.
+
+The last person has to wait for their turn.
+
+# 🔁 Working of Queue
+
+- The rear end is used to add (enqueue) elements.
+
+- The front end is used to remove (dequeue) elements.
+
+- You cannot access elements in the middle directly.
+
+# 💻 In JavaScript
+
+- In JavaScript, we can easily implement a queue using arrays, since they already have built-in methods:
+
+push() → adds an element at the end (rear)
+
+shift() → removes an element from the front
