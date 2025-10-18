@@ -1,6 +1,8 @@
 # Day-9 | Documenting What I Learned
 ## 📘 Topic: Stack
 
+<img width="600" height="449" alt="image" src="https://github.com/user-attachments/assets/a9390fee-06d5-457f-a8bb-00f1413a476c" />
+
 - Today, I learned about Stacks.
 
 - A Stack is like a lottery box or a pouch — the item that goes in last comes out first.
