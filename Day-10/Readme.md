@@ -1,5 +1,9 @@
 ---
 # 📘 Day 10 – Documenting What I Learned
+## topic: HTML
+
+<img width="158" height="150" alt="image" src="https://github.com/user-attachments/assets/03508e56-1dbb-4cc0-bb17-98e5fc24fec5" />
+
 
 ## 🧩 Introduction
 
