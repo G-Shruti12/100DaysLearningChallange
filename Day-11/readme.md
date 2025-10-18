@@ -1,6 +1,10 @@
 # 📘 Day 11 – Documenting What I Learned
-## 🧩 Introduction
+### topic: queue
 
+<img width="235" height="200" alt="image" src="https://github.com/user-attachments/assets/268030fb-8060-405b-b6d6-57f47d79170d" />
+
+
+## 🧩 Introduction
 Today, I learned about the Queue data structure — which can be seen as an extension of Stack.
 
 While a Stack works on the LIFO (Last In, First Out) principle — like in recursion, where the last function called is the first one to return —
