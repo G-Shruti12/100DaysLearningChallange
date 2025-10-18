@@ -1,5 +1,10 @@
 
-## 🗓️ Day 7 — Documenting What I Learned
+# 🗓️ Day 7 — Documenting What I Learned
+
+# topic : file handling
+
+<img width="400" height="400"  margin="auto" alt="image" src="https://github.com/user-attachments/assets/043ac104-f5eb-4a13-9b02-75fe181c7bcf" />
+
 
 ### 🧩 Difference Between `match` and `switch`
 
