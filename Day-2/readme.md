@@ -1,4 +1,11 @@
 # Day-2 | Documanting what i learned
+### topic: linked list
+
+<img width="427" height="200" alt="image" src="https://github.com/user-attachments/assets/2b2a4da4-1ce4-4ab2-80ef-ccbc6493f418" />
+<br>
+<br>
+<img width="294" height="100" alt="image" src="https://github.com/user-attachments/assets/4a3b83c2-40a7-4fcf-8bd9-3a21ba0d45bf" />
+
 - so what is data stucture it is gernally collection of data in stuctured way so that operations can be done easily on it. there are different data stucture for different purposes .
 - there are genrally 2 types of data stucture
   - linear data stucture: here data is stored in sequence for example array, stack ,singly linked list
