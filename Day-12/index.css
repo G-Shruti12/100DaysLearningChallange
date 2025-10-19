@@ -1,0 +1,339 @@
+ * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            /* border: 2px solid red; */
+        }
+        body{
+        background-color: black;
+        }
+        .box {
+            width: 100%;
+            height: 100vh;
+            background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f562aaf4-5dbb-4603-a32b-6ef6c2230136/dh0w8qv-9d8ee6b2-b41a-4681-ab9b-8a227560dc75.jpg/v1/fill/w_1192,h_670,q_70,strp/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mL2Y1NjJhYWY0LTVkYmItNDYwMy1hMzJiLTZlZjZjMjIzMDEzNi9kaDB3OHF2LTlkOGVlNmIyLWI0MWEtNDY4MS1hYjliLThhMjI3NTYwZGM3NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FScrpAAFnKqBVKwe2syeiOww6mfH6avq-DRHZ_uFVNw");
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+            background-color: rgb(65, 62, 62);
+            background-blend-mode: multiply;
+            color: white;
+        }
+
+        nav {
+            position: relative;
+            top: 20px;
+            display: flex;
+            /* background-color: red; */
+            width: 80%;
+            margin: auto;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 50px;
+        }
+
+        .logo img {
+            width: 200px;
+            height: 50px;
+        }
+
+        .btn {
+            width: 100px;
+            height: 30px;
+            color: white;
+            margin-right: 20px;
+            background-color: transparent;
+            font-size: 18px;
+            font-weight: 200;
+            border-radius: 7px;
+            /* border: 2px solid white; */
+            /* z-index: 10; */
+            cursor: pointer;
+        }
+
+        .lang {
+            border: 1px solid grey;
+            width: 120px;
+            height: 33px;
+        }
+
+        .sign,
+        .main button,footer button{
+            background-color: red;
+            border: 0cap;
+            color: white;
+        }
+
+        .main {
+            width: 80%;
+            display: flex;
+            margin: auto;
+            height: 70vh;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+        }
+
+        p.mhead {
+            margin: 20px auto;
+            font-size: 50px;
+            font-weight: 900;
+            width: 50vw;
+            font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI";
+        }
+
+        .subhead,.vedc{
+            font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+            font-size: 20px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+
+        .subline{
+            font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+
+        .input {
+            width: 50vh;
+            height: 50px;
+            border-radius: 6px;
+            background-color: rgb(22, 22, 22);
+            border: 1px solid white;
+        }
+
+        .main button ,footer button{
+            width: 30%;
+            height: 50px;
+            font-size: 18px;
+            border-radius: 6px;
+            margin: 7px;
+            cursor: pointer;
+        }
+
+        input::placeholder {
+            font-size: 18px;
+            padding: 10px;
+        }
+
+        input::placeholder {
+            /* transition-property:transform;
+          transition-duration: 2s;
+          transition-timing-function: linear; */
+            /* transform:scale(1.2); */
+        }
+        @media only screen and (max-width: 480px) {
+            .logo img{
+                width: 100px;
+            }
+            .btn{
+                display: none;
+            }
+    p.mhead {
+        font-size: 2.5rem;
+        /* background-color: aqua; */
+    }
+    .subhead {
+        font-size: 20px;
+    }
+    .subline {
+        font-size: 15px;
+    }
+    .input {
+        width: 60vw;
+    }
+}
+   @media only screen and (max-width: 550px) {
+            .logo img{
+                width: 100px;
+            }
+            .btn{
+                /* display: none; */
+            }
+    p.mhead {
+        font-size: 2.5rem;
+        /* background-color: aqua; */
+    }
+    .subhead {
+        font-size: 20px;
+    }
+    .subline {
+        font-size: 15px;
+    }
+    .input {
+        width: 60vw;
+    }
+}
+input[placeholder]{
+    color: white;
+    /* margin-left: 13px; */
+    font-size: 18px;
+}
+.trending{
+    /* background-color: white; */
+    width: 80vw;
+    margin: 40px auto;
+    overflow: auto;
+}
+.trending p{
+    color: white;
+    font-size: 2rem;
+}
+.timg{
+    display: flex;
+    width: 100vw;
+    height: 50vh;
+    margin: 20px;
+    overflow-x:auto;
+    overflow-y: hidden;
+    gap:30px;
+    /* background-color: brown; */
+}
+.timg::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, Opera */
+}
+.trending::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, Opera */
+}
+.timg img{
+    border-radius: 16px;
+    width: 100%;
+    cursor: pointer;
+}
+.timg .img:hover{
+    transition-property: transform;
+    transform: translateY(-10px);
+    /* background-color: blue; */
+    transition-duration: 0.2s;
+    /* transition-timing-function: linear; */
+    /* animation-delay: 1s; */
+  box-shadow: 0px 2px 10px rgb(77, 75, 75);
+  border-radius: 10px;
+}
+.img{
+    
+    /* background-color: aqua; */
+    min-width: 200px;
+    height: auto;
+}
+.vedio{
+    width: 80vw;
+    margin: 80px auto;
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: center;
+    align-items: center;
+     max-width: 70vw;
+    /* flex-wrap: wrap; */
+    position: relative;
+}
+.vedf{
+    position: relative;
+}
+.vedf img{
+    width: 60vh;
+    position: relative;
+    z-index: 10;
+    
+}
+.faq h2 {
+    width: 50vw;
+    margin:auto;
+    font-size: 30px;
+    /* background-color: green; */
+}
+
+.faq {
+    background: black;
+    color: white;
+    padding: 34px;
+}
+
+.faqbox:hover {
+    background-color: #414141;
+    color: white;
+}
+
+.faqbox svg {
+    filter: invert(1);
+}
+
+.faqbox {
+    transition: all 1s ease-out;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2d2d2d;
+    padding: 24px;
+    max-width: 60vw;
+    /* width: 80vw; */
+    margin: 34px auto;
+    cursor: pointer;
+    /* background-color: aqua; */
+}
+
+.vedf video{
+    position: absolute;
+    width: 100%;
+     top: 50px;
+    right: 0;
+}
+.vedc{
+    margin: 10px;
+    color: white;
+    width: 400px;
+    /* background-color: aqua; */
+}
+.vedc p:nth-child(1),.vedc  div{
+    font-size: 3em;
+    font-weight: 700;
+}
+.faq{
+    width: 80vw;
+    margin:10px auto;
+}
+.vedc  div{
+    font-size: 3em;
+}
+@media screen and (max-width: 1300px) {
+    .vedio {
+        flex-wrap: wrap;
+    }
+    .vedf img {
+        width: 305px;
+    }
+
+    video {
+        width: 305px;
+    }
+}
+footer {
+    color: white;
+    width: 60vw;
+    margin: auto;
+    padding: 60px;
+    /* background-color: aqua; */
+}
+
+footer .questions {
+    padding: 34px 0;
+    font-size: 1.5em;
+    /* background-color: bisque; */
+}
+
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: white;
+    gap: 40px;
+    overflow: auto;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
