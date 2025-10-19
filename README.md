@@ -82,7 +82,7 @@ cd Day-1
 
 > "Every small gesture keeps me motivated to keep learning and building" 🚀
 
-## 📫 Contact with Me  
+## 📫 Connect with Me  
 
 | Platform | Link |
 |-----------|------|
