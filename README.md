@@ -73,3 +73,20 @@ cd 100DaysLearningChallange
 
 # Browse by day
 cd Day-1
+```
+## 🌟 Support
+- If you find this project helpful or inspiring:
+   - ⭐ Star this repository
+   - 🔁 Share it with your learning buddies
+   - 💬 Comment or suggest improvements
+
+> "Every small gesture keeps me motivated to keep learning and building" 🚀
+
+## 📫 Contact Me  
+
+| Platform | Link |
+|-----------|------|
+| 💼 **LinkedIn** | [Shruti Gupta](https://www.linkedin.com/in/shruti-gupta-859156353) |
+| 🐙 **GitHub** | [G-Shruti12](https://github.com/G-Shruti12) |
+
+
