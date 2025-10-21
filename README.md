@@ -54,6 +54,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 13 | Deque in JavaScript | Learned double-ended queue and operations. | [Day-13 Folder](./Day-13) |
 | Day 14 | Markdown Basics | Learned how to format text using Markdown. | [Day-14 Folder](./Day-14) |
 | Day 15 | Markdown to HTML | Converted Markdown into HTML for web formatting. | [Day-15 Folder](./Day-15) |
+| Day 16 | Heap data stucture | learnt about min heap and max heap. | [Day-16 Folder](./Day-16) |
 | Day 100 | Final Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
