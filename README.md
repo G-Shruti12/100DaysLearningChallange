@@ -56,7 +56,8 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 15 | Markdown to HTML | Converted Markdown into HTML for web formatting. | [Day-15 Folder](./Day-15) |
 | Day 16 | Heap data stucture | learnt about min heap and max heap. | [Day-16 Folder](./Day-16) |
 | Day 17 | recursion| learnt about 3 step rule. | [Day-17 Folder](./Day-17) |
-| Day 100 | Final Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
+| Day 18 | priority queue using heap | learnt about priority. | [Day-18 Folder](./Day-18) |
+| Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
 
