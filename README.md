@@ -59,7 +59,8 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 18 | priority queue using heap | learnt about priority. | [Day-18 Folder](./Day-18) |
 | Day 19 | set  | set using map | [Day-19 Folder](./Day-19) |
 | Day 20 | 10 project  ideas| got to know about new ideas | [Day-19 Folder](./Day-19) |
-| Day 21| hash table | learnt a new data structure | [Day-20 Folder](./Day-21) |
+| Day 21| hash table | learnt a new data structure | [Day-21 Folder](./Day-21) |
+| Day 22| stack visualiser| made a small project| [Day-22 Folder](./Day-22) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
