@@ -1,4 +1,4 @@
-# 🗓️ Day 24 | Documenting What I Learnt  
+# 🗓️ Day 23 | Documenting What I Learnt  
 ## 🧩 Topic: XML in One Shot  
 
 - **XML** stands for **eXtensible Markup Language**. It is mainly used to **store and transport data** in a structured format.  
