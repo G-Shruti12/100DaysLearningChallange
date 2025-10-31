@@ -63,6 +63,8 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 22| stack visualiser| made a small project| [Day-22 Folder](./Day-22) |
 | Day 23| xml and xsd | xml in oneshot| [Day-23 Folder](./Day-23) |
 | Day 24| xml reading through python | xml reading through python| [Day-24 Folder](./Day-24) |
+| Day 25| itrator in python | learnt about iterators in python | [Day-25 Folder](./Day-25) |
+| Day 26| making custom iterators in python| dander and other concepts| [Day-26 Folder](./Day-26) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
