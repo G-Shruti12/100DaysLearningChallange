@@ -65,6 +65,8 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 24| xml reading through python | xml reading through python| [Day-24 Folder](./Day-24) |
 | Day 25| itrator in python | learnt about iterators in python | [Day-25 Folder](./Day-25) |
 | Day 26| making custom iterators in python| dander and other concepts| [Day-26 Folder](./Day-26) |
+| Day 27| genrator in python | a new memory saving topic| [Day-27 Folder](./Day-27) |
+| Day 28| tailwind css|tailwind in oneshot| [Day-28 Folder](./Day-28) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
