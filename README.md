@@ -67,6 +67,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 26| making custom iterators in python| dander and other concepts| [Day-26 Folder](./Day-26) |
 | Day 27| genrator in python | a new memory saving topic| [Day-27 Folder](./Day-27) |
 | Day 28| tailwind css|tailwind in oneshot| [Day-28 Folder](./Day-28) |
+| Day 29| tailwind css login form|tailwind in project| [Day-29 Folder](./Day-29) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
