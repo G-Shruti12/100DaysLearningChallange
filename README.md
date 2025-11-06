@@ -70,6 +70,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 29| tailwind css login form|tailwind in project| [Day-29 Folder](./Day-29) |
 | Day 30| run c code using python|printing on terminal| [Day-30 Folder](./Day-30) |
 | Day 31| using c library to run function in python|printing on terminal| [Day-31 Folder](./Day-31) |
+| Day 32| json in oneshot |learning javascript object notation| [Day-32 Folder](./Day-32) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
