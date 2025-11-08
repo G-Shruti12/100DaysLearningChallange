@@ -71,6 +71,9 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 30| run c code using python|printing on terminal| [Day-30 Folder](./Day-30) |
 | Day 31| using c library to run function in python|printing on terminal| [Day-31 Folder](./Day-31) |
 | Day 32| json in oneshot |learning javascript object notation| [Day-32 Folder](./Day-32) |
+| Day 33| json acessing using js|learning how to acess object| [Day-33 Folder](./Day-33) |
+| Day 34| Btech or bca |which is better| [Day-34 Folder](./Day-34) |
+| Day 35| gui application using tkinert |first time| [Day-35 Folder](./Day-35) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
