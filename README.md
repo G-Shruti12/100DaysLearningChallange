@@ -74,6 +74,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 33| json acessing using js|learning how to acess object| [Day-33 Folder](./Day-33) |
 | Day 34| Btech or bca |which is better| [Day-34 Folder](./Day-34) |
 | Day 35| gui application using tkinert |first time| [Day-35 Folder](./Day-35) |
+| Day 36| length converter |first time| [Day-36 Folder](./Day-36) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
