@@ -77,6 +77,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 36| length converter |first time| [Day-36 Folder](./Day-36) |
 | Day 37| random colour generator|colours| [Day-37 Folder](./Day-37) |
 | Day 38| photo editing project |basic function| [Day-38 Folder](./Day-38) |
+| Day 39| create table in tkinter |basic table| [Day-39 Folder](./Day-39) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
