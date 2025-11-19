@@ -81,6 +81,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 40| learning about dbms |database| [Day-40 Folder](./Day-40) |
 | Day 41| basic sql commands |crud operation| [Day-41 Folder](./Day-41) |
 | Day 42| connecting sql and python |connector driver| [Day-42 Folder](./Day-42) |
+| Day 43| running select command using python |python| [Day-43 Folder](./Day-43) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
