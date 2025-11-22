@@ -84,6 +84,7 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 43| running select command using python |python| [Day-43 Folder](./Day-43) |
 | Day 44| running insert command using python |python| [Day-44 Folder](./Day-44) |
 | Day 45| running update command using python |python| [Day-45 Folder](./Day-45) |
+| Day 46| running delete command using python |python| [Day-46 Folder](./Day-46) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
 > 🏗️ *This table will be updated daily as I continue learning.*
