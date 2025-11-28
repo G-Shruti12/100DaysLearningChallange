@@ -85,6 +85,12 @@ This is where I’m documenting everything I learn each day for the next 100 day
 | Day 44| running insert command using python |python| [Day-44 Folder](./Day-44) |
 | Day 45| running update command using python |python| [Day-45 Folder](./Day-45) |
 | Day 46| running delete command using python |python| [Day-46 Folder](./Day-46) |
+| Day 47| over guidance |
+| Day 48| code optamisation| new learning | [Day-48 Folder](./Day-48) |
+| Day 49| sql vs sql lite| learnt something new | [Day-49 Folder](./Day-49) |
+| Day 50| sql litewith python| learnt something new in python | [Day-50 Folder](./Day-50) |
+| Day 51| how to overcome distraction | insights| 
+| Day 52| comparison destoys a person | insights| 
 | Day 53| cli  using python |python| [Day-53 Folder](./Day-53) |
 | Day 100 | Project 🎉 | Wrapping up the journey! | [Day-100 Folder](./Day-100) |
 
